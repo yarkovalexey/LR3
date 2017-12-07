@@ -1,7 +1,10 @@
+/*
+ * Created by Alexey Yarkov on 13.09.17
+ * Copyright © 2017 Alexey Yarkov. All rights reserved.
+ */
 
 public class LR3 {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
 
         System.out.println("Работа с десятичными чиселами:");
         Number A = new NumberActivity(10);
